@@ -2,7 +2,6 @@
 
 Welcome to my Data Science and Data Analysis Portfolio! This repository showcases my work in the fields of data science and data analysis. Each project is organized into its own directory and includes detailed documentation, code, and any relevant datasets.
 
-![Data Science Banner](data-science-banner.jpg)
 
 ## Table of Contents
 
