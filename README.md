@@ -33,14 +33,14 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Description:** Conducted sentiment analysis on customer reviews using NLP techniques and built a sentiment classification model.
 - **Tools/Technologies Used:** Python, NLTK, scikit-learn, spaCy.
 - **Skills Demonstrated:** NLP, text preprocessing, model building.
-- [Link to Project Folder](project-3/)
+- [Link to Project Folder](https://github.com/frzkstudio/ML_NLP_Sentiment_Analysis/tree/main)
 
 
 ### Project 4: Stock Price Prediction
 - **Description**: Developed a machine learning model to predict stock prices based on historical data. Evaluated the model's performance for investment decision-making.
 - **Tools/Technologies Used**: Python, scikit-learn, pandas, matplotlib.
 - **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
-- [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main))
+- [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main)
 
 
 <!-- Add more projects as needed -->
