@@ -40,7 +40,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Description**: Developed a machine learning model to predict stock prices based on historical data. Evaluated the model's performance for investment decision-making.
 - **Tools/Technologies Used**: Python, scikit-learn, pandas, matplotlib.
 - **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
-- [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/fcdd9ac1d33b1ec830c9c55f071bf308907f2681)
+- [Link to Project Folder]([https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/fcdd9ac1d33b1ec830c9c55f071bf308907f2681](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main))
 
 
 <!-- Add more projects as needed -->
