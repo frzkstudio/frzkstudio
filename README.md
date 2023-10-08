@@ -35,6 +35,14 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Skills Demonstrated:** NLP, text preprocessing, model building.
 - [Link to Project Folder](project-3/)
 
+
+### Project 4: Stock Price Prediction
+- **Description**: Developed a machine learning model to predict stock prices based on historical data. Evaluated the model's performance for investment decision-making.
+- **Tools/Technologies Used**: Python, scikit-learn, pandas, matplotlib.
+- **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
+- [Link to Project Folder](project4-stock-price-prediction/)
+
+
 <!-- Add more projects as needed -->
 
 ---
