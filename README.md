@@ -14,7 +14,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 
 ## Projects
 
-### Project 1: Customer Churn Prediction
+### Project 1: Machine Learning Classification Credit Risk Analysis
 
 - **Description:** Developed a machine learning model to predict customer churn for a telecom company. Achieved an accuracy of 85%.
 - **Tools/Technologies Used:** Python, scikit-learn, pandas, matplotlib, seaborn.
@@ -23,20 +23,25 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 
 ### Project 2: Sales Analysis Dashboard
 
-- **Description:** Created an interactive dashboard to visualize and analyze monthly sales data for an e-commerce business.
-- **Tools/Technologies Used:** Python, Tableau, SQL, Excel.
+- **Description:** Created an interactive dashboard to visualize and analyze sales data for kimia farma business.
+- **Tools/Technologies Used:** Google Dara Studio
 - **Skills Demonstrated:** Data visualization, dashboard creation, SQL queries.
 - [Link to Project Folder](project-2/)
 
 ### Project 3: Natural Language Processing (NLP) for Sentiment Analysis
 
 - **Description:** Conducted sentiment analysis on customer reviews using NLP techniques and built a sentiment classification model.
-- **Tools/Technologies Used:** Python, NLTK, scikit-learn, spaCy.
-- **Skills Demonstrated:** NLP, text preprocessing, model building.
+- **Tools/Technologies Used:** Python, NLTK, scikit-learn.
+- **Skills Demonstrated:** NLP, text preprocessing, model building, and vizualisation.
 - [Link to Project Folder](https://github.com/frzkstudio/ML_NLP_Sentiment_Analysis/tree/main)
 
+### Project 4: Machine Learning Forecasting Stock Price Prediction
+- **Description**: Developed a machine learning model to predict stock prices based on historical data. Evaluated the model's performance for investment decision-making.
+- **Tools/Technologies Used**: Python, scikit-learn, pandas, matplotlib.
+- **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
+- [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main)
 
-### Project 4: Stock Price Prediction
+### Project 5: Data Vizualisation
 - **Description**: Developed a machine learning model to predict stock prices based on historical data. Evaluated the model's performance for investment decision-making.
 - **Tools/Technologies Used**: Python, scikit-learn, pandas, matplotlib.
 - **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
