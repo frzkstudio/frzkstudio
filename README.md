@@ -19,7 +19,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Description:** Developed a machine learning model to predict customer churn for a telecom company. Achieved an accuracy of 85%.
 - **Tools/Technologies Used:** Python, scikit-learn, pandas, matplotlib, seaborn.
 - **Skills Demonstrated:** Classification, feature engineering, model evaluation.
-- [Link to Project Folder](project-1/)
+- [Link to Project Folder](https://github.com/frzkstudio/ML_Credit_Risk_Scoring)
 
 ### Project 2: Sales Analysis Dashboard
 
