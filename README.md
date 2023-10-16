@@ -21,10 +21,10 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Skills Demonstrated:** Classification, feature engineering, model evaluation.
 - [Link to Project Folder](https://github.com/frzkstudio/ML_Credit_Risk_Scoring)
 
-### Project 2: Sales Analysis Dashboard
+### Project 2: Sales Analysis Dashboard 
 
-- **Description:** Created an interactive dashboard to visualize and analyze sales data for kimia farma business.
-- **Tools/Technologies Used:** Google Dara Studio
+- **Description:** Developed an interactive dashboard to visualize and analyze sales data for Kimia Farma business.
+- **Tools/Technologies Used:** Google Data Studio, SQL.
 - **Skills Demonstrated:** Data visualization, dashboard creation, SQL queries.
 - [Link to Project Folder](project-2/)
 
@@ -41,10 +41,11 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
 - [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main)
 
-### Project 5: Data Vizualisation
-- **Description**: Developed a machine learning model to predict stock prices based on historical data. Evaluated the model's performance for investment decision-making.
-- **Tools/Technologies Used**: Python, scikit-learn, pandas, matplotlib.
-- **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
+### Project 5: Analyzing eCommerce Business Performance Using SQL
+- **Description**: Conducted an in-depth analysis of eCommerce business performance by leveraging SQL. Explored data, extracted insights, and generated actionable recommendations for improving business strategies.
+- **Tools/Technologies Used**: SQL, database management, data exploration, query optimization.
+- **Skills Demonstrated**: Data analysis, SQL queries, data extraction, business insights, strategic recommendations.
+
 - [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main)
 
 
