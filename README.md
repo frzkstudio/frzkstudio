@@ -14,14 +14,15 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 
 ## Projects
 
-### Project 1: Machine Learning Classification Credit Risk Analysis
+### Project 1: Machine Learning Classification - Credit Risk Scoring
 
-- **Description:** Developed a machine learning model to predict customer churn for a telecom company. Achieved an accuracy of 85%.
+- **Description:** Developed a machine learning model to predict credit risk scoring.
 - **Tools/Technologies Used:** Python, scikit-learn, pandas, matplotlib, seaborn.
 - **Skills Demonstrated:** Classification, feature engineering, model evaluation.
 - [Link to Project Folder](https://github.com/frzkstudio/ML_Credit_Risk_Scoring)
 
-### Project 2: Sales Analysis Dashboard 
+
+### Project 2: Kimia Farma Sales Analysis Dashboard
 
 - **Description:** Developed an interactive dashboard to visualize and analyze sales data for Kimia Farma business.
 - **Tools/Technologies Used:** Google Data Studio, SQL.
