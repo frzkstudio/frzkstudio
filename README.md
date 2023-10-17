@@ -29,7 +29,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Skills Demonstrated:** Data visualization, dashboard creation, SQL queries.
 - [Link to Project Folder](project-2/)
 
-### Project 3: Natural Language Processing (NLP) for Sentiment Analysis
+### Project 3: Machine Learning Natural Language Processing (NLP) for Sentiment Analysis
 
 - **Description:** Conducted sentiment analysis on customer reviews using NLP techniques and built a sentiment classification model.
 - **Tools/Technologies Used:** Python, NLTK, scikit-learn.
@@ -42,11 +42,16 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Skills Demonstrated**: Time series forecasting, feature engineering, model evaluation.
 - [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main)
 
-### Project 5: Analyzing eCommerce Business Performance Using SQL
+### Project 5: Machine Learning Classification - Holiday Package Prediction
+- **Description**: This project focuses on machine learning classification to predict holiday package bookings based on customer data.
+- **Tools/Technologies Used**: Python, Jupyter Notebook, Scikit-learn
+- **Skills Demonstrated**: Data preprocessing, model building, evaluation
+- [Link to Project Folder](https://github.com/frzkstudio/Holiday_Package_Prediction/tree/main)
+
+### Project 6: Analyzing eCommerce Business Performance Using SQL
 - **Description**: Conducted an in-depth analysis of eCommerce business performance by leveraging SQL. Explored data, extracted insights, and generated actionable recommendations for improving business strategies.
 - **Tools/Technologies Used**: SQL, database management, data exploration, query optimization.
 - **Skills Demonstrated**: Data analysis, SQL queries, data extraction, business insights, strategic recommendations.
-
 - [Link to Project Folder](https://github.com/frzkstudio/Analyze_eCommerce_Performance_Using_SQL/tree/main)
 
 
