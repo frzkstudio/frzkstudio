@@ -27,7 +27,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Description:** Developed an interactive dashboard to visualize and analyze sales data for Kimia Farma business.
 - **Tools/Technologies Used:** Google Data Studio, SQL.
 - **Skills Demonstrated:** Data visualization, dashboard creation, SQL queries.
-- [Link to Project Folder](project-2/)
+- [Link to Project Folder](https://github.com/frzkstudio/Sales_Analysis_Dashboard)
 
 ### Project 3: Machine Learning Natural Language Processing (NLP) for Sentiment Analysis
 
