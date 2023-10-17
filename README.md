@@ -59,9 +59,9 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 
 ---
 
-## Data Analysis Notebooks
+## PowerPoint Presentation
 
-In addition to the projects, I also maintain a collection of Jupyter notebooks that demonstrate various data analysis techniques and exploratory data analysis (EDA). You can find them in the [Data Analysis Notebooks](data-analysis-notebooks/) directory.
+For simplicity, I have a collection of PowerPoint presentations covering various project data science and data analysis topics. You can find them in the [Google Drive](drive/ppt) directory.
 
 ---
 
@@ -77,7 +77,6 @@ I am constantly looking to expand my knowledge and skills in data science and co
 
 - **Email:** frzkstudio@gmail.com
 - **LinkedIn:** [Farhan Rizki](https://www.linkedin.com/in/farhanrzki/)
-- **website:** [Your GitHub Profile](https://github.com/your-username)
 
 Feel free to explore the projects and reach out to me if you have any questions or would like to collaborate on a project.
 
