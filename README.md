@@ -6,7 +6,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 ## Table of Contents
 
 - [Projects](#projects)
-- [Data Analysis Notebooks](#data-analysis-notebooks)
+- [Presentation](#powerpoint-presentation)
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
 
