@@ -70,10 +70,9 @@ I am constantly looking to expand my knowledge and skills in data science and co
 
 ## Contact Information
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-handle)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** frzkstudio@gmail.com
+- **LinkedIn:** [Farhan Rizki](https://www.linkedin.com/in/farhanrzki/)
+- **website:** [Your GitHub Profile](https://github.com/your-username)
 
 Feel free to explore the projects and reach out to me if you have any questions or would like to collaborate on a project.
 
