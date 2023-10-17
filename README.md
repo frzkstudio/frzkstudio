@@ -48,12 +48,13 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Skills Demonstrated**: Data preprocessing, model building, evaluation
 - [Link to Project Folder](https://github.com/frzkstudio/Holiday_Package_Prediction/tree/main)
 
+<!--
 ### Project 6: Analyzing eCommerce Business Performance Using SQL
 - **Description**: Conducted an in-depth analysis of eCommerce business performance by leveraging SQL. Explored data, extracted insights, and generated actionable recommendations for improving business strategies.
 - **Tools/Technologies Used**: SQL, database management, data exploration, query optimization.
 - **Skills Demonstrated**: Data analysis, SQL queries, data extraction, business insights, strategic recommendations.
 - [Link to Project Folder](https://github.com/frzkstudio/Analyze_eCommerce_Performance_Using_SQL/tree/main)
-
+-->
 
 <!-- Add more projects as needed -->
 
