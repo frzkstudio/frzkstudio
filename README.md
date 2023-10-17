@@ -47,7 +47,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 - **Tools/Technologies Used**: SQL, database management, data exploration, query optimization.
 - **Skills Demonstrated**: Data analysis, SQL queries, data extraction, business insights, strategic recommendations.
 
-- [Link to Project Folder](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/tree/main)
+- [Link to Project Folder](https://github.com/frzkstudio/Analyze_eCommerce_Performance_Using_SQL/tree/main)
 
 
 <!-- Add more projects as needed -->
