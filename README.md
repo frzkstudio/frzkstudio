@@ -61,7 +61,7 @@ Welcome to my Data Science and Data Analysis Portfolio! This repository showcase
 
 ## PowerPoint Presentation
 
-For simplicity, I have a collection of PowerPoint presentations covering various project data science and data analysis topics. You can find them in the [Google Drive](drive/ppt) directory.
+For simplicity, I have a collection of PowerPoint presentations covering various project data science and data analysis. You can find them in the [Google Drive](drive/ppt) directory.
 
 ---
 
